@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+numpy
+pillow
+prometheus-fastapi-instrumentator
+argparse
+scipy
+tensorflow
